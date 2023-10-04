@@ -14,7 +14,11 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido com finalidade didaticas criando back-end em node usando o framework fastify, foi elaborado rotas simples usando zod schema para validar e tipar os dados juntamente com o typescript.
+Este projeto foi desenvolvido com finalidade didaticas criando back-end em node usando o framework fastify, foi elaborado rotas simples usando zod schema para validar e tipar os dados juntamente com o typescript. Foi usado o vitest e o supertest para efetuar os teste nas rotas.
+
+Unitário: teste na unidde da sua aplicação
+integração : comunicação entre duas ou mais unidades
+e2e -ponta a ponta : simula um usuário operando na nossa aplicação 
 
 ### Features
 
